@@ -63,6 +63,13 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="logos--microsoft-power-bi.svg" alt="powerbi logo" height="40" />
+  <img width="12" />
+  <img src="logos--tableau-icon.svg" alt="tableau logo" height="40" />
+  <img width="12" />
+  <img src="vscode-icons--file-type-excel.svg" alt="excel logo" height="40" />
+
 </div>
 
 ###
