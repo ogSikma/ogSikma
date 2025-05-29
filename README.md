@@ -1,15 +1,14 @@
-# About me
-
+# $${\color{lightgreen}About \space me}$$
 ###
 
 **IT student from Poland**.
 
 I specialize in preparing, cleaning, analyzing and visualizing data and also in artifical intelligence with experience in machine learning, deep learning, natural language processing.
 
-## 🛠️ Data science 📊
+## 🛠️ $${\color{lightgreen}Data \space science}$$ 📊
 - https://github.com/ogSikma/Data_Project.College_Basketball
 - https://github.com/ogSikma/Tableau_projects
-## 🧠 Machine learning & deep learning 💻
+## 🧠 $${\color{lightgreen}Machine \space learning \space and \space deep \space learning}$$ 💻
 - https://github.com/ogSikma/VectorAutoRegression-Project
 - https://github.com/ogSikma/Political_compass
 
@@ -17,7 +16,7 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
 
 ###
 
-<h2 align="center">Languages, Libraries & Frameworks</h2>
+<h2 align="center">$${\color{lightgreen}Languages, \space Libraries, \space Frameworks}$$</h2>
 
 ###
 
@@ -47,7 +46,7 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
 
 ###
 
-<h2 align="center">Development Environments & Analytical Tools</h2>
+<h2 align="center">$${\color{lightgreen}Development \space Environments, \space Analytical \space Tools}$$</h2>
 
 ###
 
