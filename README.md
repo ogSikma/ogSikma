@@ -1,4 +1,4 @@
-# $${\color{lightgreen}About \space me}$$
+## About me
 ###
 
 **IT student from Poland**.
