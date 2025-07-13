@@ -5,10 +5,10 @@
 
 I specialize in preparing, cleaning, analyzing and visualizing data and also in artifical intelligence with experience in machine learning, deep learning, natural language processing.
 
-## 🛠️ $${\color{lightgreen}Data \space science}$$ 📊
+## Data science 🛠️
 - https://github.com/ogSikma/Data_Project.College_Basketball
 - https://github.com/ogSikma/Tableau_projects
-## 🧠 $${\color{lightgreen}Machine \space learning \space and \space deep \space learning}$$ 💻
+## Machine learning and deep learning 🧠
 - https://github.com/ogSikma/VectorAutoRegression-Project
 - https://github.com/ogSikma/Political_compass
 
