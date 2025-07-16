@@ -16,7 +16,7 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
 
 ###
 
-<h2 align="center">Languages, Libraries, Frameworks}</h2>
+<h2 align="center">Languages, Libraries, Frameworks</h2>
 
 ###
 
@@ -46,7 +46,7 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
 
 ###
 
-<h2 align="center">Development, Environments, Analytical Tools}</h2>
+<h2 align="center">Development, Environments, Analytical Tools</h2>
 
 ###
 
