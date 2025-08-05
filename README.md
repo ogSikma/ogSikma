@@ -5,12 +5,13 @@
 
 I specialize in preparing, cleaning, analyzing and visualizing data and also in artifical intelligence with experience in machine learning, deep learning, natural language processing.
 
-## Data science 🛠️
+## Data analytics and engineering 🛠️
 - https://github.com/ogSikma/Data_Project.College_Basketball
 - https://github.com/ogSikma/Tableau_projects
-## Machine learning and deep learning 🧠
+## Data science - machine learning and deep learning 🧠
 - https://github.com/ogSikma/VectorAutoRegression-Project
 - https://github.com/ogSikma/Political_compass
+## Other 💻
 
 
 
