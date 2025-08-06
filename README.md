@@ -12,7 +12,9 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
 - https://github.com/ogSikma/VectorAutoRegression-Project
 - https://github.com/ogSikma/Political_compass
 ## Other 💻
-
+- https://github.com/ogSikma/Polish-Norwegian-Translator
+- https://github.com/ogSikma/BlacksmithGame [hibernated]
+- https://github.com/ogSikma/Paint-the-wall [hibernated]
 
 
 ###
