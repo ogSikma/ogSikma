@@ -6,7 +6,7 @@
 I specialize in preparing, cleaning, analyzing and visualizing data and also in artifical intelligence with experience in machine learning, deep learning, natural language processing.
 
 ## Data analytics and engineering 🛠️
-- https://github.com/ogSikma/Data_Project.College_Basketball
+- https://github.com/ogSikma/USA-college-basketball-data-analysis
 - https://github.com/ogSikma/Data-scraper-Polish-sejm
 - https://github.com/ogSikma/NBA-basketball-team-Supersonics
 - https://github.com/ogSikma/NBA-historic-data-analysis-excel
