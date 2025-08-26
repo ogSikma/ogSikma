@@ -9,6 +9,8 @@ I specialize in preparing, cleaning, analyzing and visualizing data and also in 
 - https://github.com/ogSikma/Data_Project.College_Basketball
 - https://github.com/ogSikma/Data-scraper-Polish-sejm
 - https://github.com/ogSikma/NBA-basketball-team-Supersonics
+- https://github.com/ogSikma/NBA-historic-data-analysis-excel
+- https://github.com/ogSikma/Global-energy-data-analysis-excel
 - https://github.com/ogSikma/Tableau_projects
 ## Data science - machine learning and deep learning 🧠
 - https://github.com/ogSikma/VectorAutoRegression-Project
